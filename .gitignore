@@ -1,0 +1,14 @@
+# Abaikan folder vendor (isinya library berat)
+/vendor/
+/application/vendor/
+
+# Abaikan file database
+*.sql
+database/afifystore.sql
+
+# Abaikan file konfigurasi yang berisi Midtrans Key/Secret
+.env
+
+# Abaikan folder storage/cache
+/storage/*.key
+/public/storage

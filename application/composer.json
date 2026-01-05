@@ -1,0 +1,7 @@
+{
+    "require": {
+        "midtrans/midtrans-php": "^2.3",
+        "phpoffice/phpspreadsheet": "^1.14",
+        "google/apiclient":"^2.0"
+    }
+}
